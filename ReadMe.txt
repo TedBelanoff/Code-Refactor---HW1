@@ -1,0 +1,1 @@
+This is a copy of my (Ted Belanoff) submission for homework #1.
